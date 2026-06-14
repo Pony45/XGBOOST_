@@ -1,0 +1,12 @@
+{
+    "r2_score": 0.9608037851333899,
+    "mae": 0.026197839890100643,
+    "rmse": 0.0329675825329533,
+    "mape": 3.9395857332034607,
+    "model_type": "XGBoost",
+    "n_estimators": 200,
+    "max_depth": 8,
+    "learning_rate": 0.05,
+    "train_samples": 14016,
+    "test_samples": 3504
+}
